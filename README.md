@@ -9,7 +9,7 @@ The command cable (normally orange) is attached to pin 9 of the Arduino Uno.
 
 # Expected behaviour
 
-The machine should put the tea bag inside the cup and wait during `infusion_time_ms` milliseconds (to be re-defined inside the .ino file) before removing the bag from the cup and shaking it 25 times to remove the drops.
+The machine should put the tea bag inside the cup and wait during `infusion_time_ms` milliseconds (to be re-defined inside the .ino file) before removing the bag from the cup and shaking it 25 times to remove the drops (thus ringing a bell and waving a flag )
 
 The overall movement is controlled by the string attached to the flag, therefore by the angle of the flag, therefore by the min and max angles of the servo motor in the programm: `servo_max_angle` and `servo_min_angle`
 
