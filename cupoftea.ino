@@ -21,7 +21,6 @@ int count = 0;
 
 void setup() {
   myservo.attach(9);  // attaches the servo on pin 9 to the servo object
-  Serial.begin(9600);
 }
 
 void loop() {
