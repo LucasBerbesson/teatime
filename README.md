@@ -13,5 +13,4 @@ The machine should put the tea bag inside the cup and wait during `infusion_time
 
 The overall movement is controlled by the string attached to the flag, therefore by the angle of the flag, therefore by the min and max angles of the servo motor in the programm: `servo_max_angle` and `servo_min_angle`
 
-Good Luck
-Indulge a nice cup of tea
+Good Luck !
