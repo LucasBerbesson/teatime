@@ -1,5 +1,6 @@
 /* Sweep
- by La Fabrique DIY <https://www.youtube.com/channel/UCV8D6u7_jkuGf_iUvNzXpmg/videos>
+ Lucas Berbesson for La Fabrique DIY
+  <https://www.youtube.com/channel/UCV8D6u7_jkuGf_iUvNzXpmg/videos>
 
  modified 19 Jan 2017
  by Lucas Berbesson
