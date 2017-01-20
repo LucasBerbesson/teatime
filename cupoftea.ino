@@ -25,9 +25,9 @@ void setup() {
 
 void loop() {
   //Infusing the tea bag
-  myservo.write(min_tea);
+  myservo.write(servo_min_angle);
   delay(infusion_time_ms);
-  myservo.write(max_tea);
+  myservo.write(servo_max_angle);
   delay(2000);
   //shaking the tea bag
   for (count = 1; count <= 25; count += 1) {
