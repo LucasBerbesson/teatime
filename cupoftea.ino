@@ -14,7 +14,7 @@ int servo_max_angle = 90; // max angle of the flag
 int servo_min_angle = 30; // min angle of the flag
 
 int flag_left = servo_max_angle + 5; 
-int flag_right = servo_min_angle - 5;
+int flag_right = servo_max_angle - 5;
 
 int infusion_time_ms = 90000;
 int count = 0;
